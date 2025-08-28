@@ -1,0 +1,15 @@
+unit 1 lecture 2 - Ai terms
+
+Bias is assumptions made by a model that simplify the process of learning.
+
+generative AI is the most common type of Ai that is talked about it is able to create by pulling from other sources and creating its own creations.
+
+Hallucinations in ai is when Ai uses inaccurate or wrong data to display the wrong answer or prompt usually caused by bad data being fed to the AI.
+
+Prompt engineering is the process of making your searches or questions more easy for the Ai or search engine to understand.
+ 
+Temperature when referencing to ai is how creative the ai can be.
+
+Tokens are pieces of data that Ai models use to process information.
+
+generative ai can be summed up very crudely as a very expensive autocomplete

@@ -1,0 +1,10 @@
+AI stands for artificial intelligence and is defined as a program that can perform complex tasks like reasoning, decision making, creating, etc.
+
+Their is no simple explanation for artificial intelligence
+
+A machine has AI when it can collect data and use that data to evolve and learn
+
+AI is used in many things but it can range in a myriad of tasks but is often time boiled down to a computer chip with limited functions
+
+AI for most people is just a simple computer algorithm 
+
