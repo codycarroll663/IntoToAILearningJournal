@@ -1,0 +1,17 @@
+desktop computers have a seated CPU that you can replace and remove
+
+every part of the motherboard connects everything
+
+the CPU does all of the thinking, and a CPU is in itself just a really small motherboard
+
+All Laptops are Non-ECC
+
+storage long term is composed on HDD (Hard Drive Disk), SATA, and SSD (Secure Storage Device).
+
+Expansion Drives connect other devices to the hard drive
+
+The GPU has come to be the jack of all trades, it does video encoding, physics, and AI Scripts. 
+
+ARM is a reduced instruction set but less instructions means it runs faster.
+
+

@@ -1,0 +1,8 @@
+Import http.server
+import socketserver
+
+port = 8000
+
+catting the server with cat server .py will display everything in in 
+
+after this type the website address into a search engine on your computer or network to see your website
