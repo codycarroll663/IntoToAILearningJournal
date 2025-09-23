@@ -1,0 +1,6 @@
+hypervisor runs above the physical server/host. 
+2 types of hypervisor: 
+- type 1 is physically installed on top of the physical server. they are the most common. 
+- type 2 hypervisor is separated by host hypervisor from the server. 
+hypervisor allows you to make a virtual machine. 
+Linux has desktop environments and allows you to pick what they look like

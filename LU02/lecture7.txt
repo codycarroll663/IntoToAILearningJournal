@@ -1,0 +1,8 @@
+CoT prompting is a technique in Ai models that help improve their reasoning capabilities. 
+
+chain of density is a engineering technique that attempts to gradually improve and densify data by repeatedly repeating it but in more dense sections
+
+
+
+
+
