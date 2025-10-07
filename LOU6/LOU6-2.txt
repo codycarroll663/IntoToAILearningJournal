@@ -1,0 +1,4 @@
+every time you launch a virtual machine you have your hardware then your operating system and then you have your guest system
+docker eliminates the in-between and makes the process more streamlined
+VM's (Virtual Machine) are a lot more heavy than standard software. 
+phone OS are immutable meaning you cannot access the Operating System

@@ -1,0 +1,4 @@
+Svelt is a compiler that makes code highly compatible in a very small package
+Svelt provides multiple ways to share data
+Svelt has stored that are observables that can be shared nearly anywhere
+components

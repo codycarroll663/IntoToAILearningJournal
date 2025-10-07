@@ -1,0 +1,20 @@
+writing better prompts for Ai is a skill in and off itself
+
+prompts are giving requests to the Ai to generate answers and every time you give a Ai the same prompt the answer will be different because the Ai is generating different answers.
+
+
+when making a prompt use clear precise words and sentences
+
+use descriptive keywords to get the best results
+
+Task - Persona: who the Ai is, Format: Output type
+
+Context - Good: give me some ideas for a birthday present. Under $30
+          Great: Give me a $5 ideas for a birthday present. My budget is $30. The gift is for a 29-yo who loves winter sports.
+                 And has recently switched to snowboarding from skiing.
+
+Reference - additional input data, ideas
+
+Reference -> Evaluate -> Iterate -> Task -> Context -> Reference
+
+Summarize the key data from reports and then create visual graphs from the data and shorten key info into bullets. 
