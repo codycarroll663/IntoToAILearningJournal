@@ -1,0 +1,4 @@
+a Tech stack 
+
+a Tech stack uses blocks to make the code and it is technically no code
+
