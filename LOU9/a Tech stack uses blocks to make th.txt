@@ -1,0 +1,5 @@
+a Tech stack uses blocks to make the code and it is technically no code
+
+n8n is a interesting app that allows you to link Ai, Emails, and other services with a single block program.
+
+n8n allows databases to be used to record some previous steps in the program
